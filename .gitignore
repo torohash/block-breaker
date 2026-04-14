@@ -1,0 +1,37 @@
+# Unity generated folders
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/Logs/
+/MemoryCaptures/
+
+# User-specific settings
+/UserSettings/
+
+# Visual Studio / Rider
+/.vs/
+/.idea/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.tmp
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+/*.opendb
+/*.VC.db
+
+# Unity cache / generated metadata
+/DerivedDataCache/
+/.gradle/
+
+# OS generated files
+.DS_Store
+Thumbs.db
