@@ -1,6 +1,6 @@
 # BlockBreaker
 
-Unity で作る block breaker プロジェクトです。
+Unity で作る block breaker プロジェクトです！
 
 ## Directories
 
